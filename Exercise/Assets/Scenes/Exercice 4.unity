@@ -3066,7 +3066,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 914057261236528808, guid: 43a444c67cde7ec46bda31d8aacc894f, type: 3}
       propertyPath: m_MessageToPlayer
-      value: <color=#FBC531><b>Lesson 3</b></color>\nCollider
+      value: <color=#FBC531><b>Level 4</b></color>\nMaze
       objectReference: {fileID: 0}
     - target: {fileID: 8115208806509555957, guid: 43a444c67cde7ec46bda31d8aacc894f, type: 3}
       propertyPath: m_Name
